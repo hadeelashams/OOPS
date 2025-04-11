@@ -1,2 +1,73 @@
 # Compiled class files
 *.class
+
+# Log files
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.gz
+*.tar.gz
+
+# Temporary files created by developers
+*.bak
+*~.swp
+*.swp
+*.swo
+*.vrb
+
+# IDE - IntelliJ IDEA #
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IDE - Eclipse #
+.settings/
+.project
+.classpath
+.metadata/
+bin/
+tmp/
+*.tmp
+*.launch
+
+# IDE - NetBeans #
+nbproject/
+build/
+dist/
+nbactions.xml
+nb-configuration.xml
+
+# IDE - VS Code #
+.vscode/
+
+# Build output folders (Maven, Gradle, etc.) #
+target/
+build/
+out/
+bin/
+
+# Gradle files #
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Maven files #
+/mvnw
+/mvnw.cmd
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Project specific - add your own if needed
+# Example:
+# my-custom-logs/
+# temp-data/
